@@ -6,5 +6,6 @@ public partial class registro : ContentPage
 	{
 		InitializeComponent();
         lblUsuario.Text = "Usuario conectado:" + usuario;
+		//pendiente
     }
 }
